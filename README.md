@@ -1,6 +1,6 @@
 # Template LaTeX pour Mémoire de Master
 
-Ce projet est un template LaTeX préconfiguré pour rédiger un mémoire de Master sur la régulation des marchés numériques en Côte d'Ivoire. Il utilise XeLaTeX pour la compilation et inclut des packages pour le français, les références, et la mise en page académique.
+Ce projet est un template LaTeX préconfiguré pour rédiger un mémoire de Master. Il utilise XeLaTeX pour la compilation et inclut des packages pour le français, les références, et la mise en page académique.
 
 ## Structure du projet
 
