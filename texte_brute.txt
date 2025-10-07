@@ -1,0 +1,212 @@
+Introduction
+
+Le développement rapide des technologies de l’information et de la communication a profondément transformé les économies du monde entier. En Afrique, et particulièrement en Côte d’Ivoire, la montée en puissance du numérique se manifeste par l’essor du commerce en ligne, des services de paiement mobile et des plateformes numériques qui attirent chaque jour davantage d’usagers.
+
+À Abidjan par exemple, il n’est plus rare que les consommateurs passent leurs commandes sur Jumia ou Glovo, paient leurs factures via Orange Money ou Wave, et se déplacent grâce aux applications de transport comme Yango ou Uber. Ces innovations offrent plus de confort, d’efficacité et d’opportunités économiques.
+
+Cependant, cette révolution numérique soulève aussi de nombreux défis. Les arnaques en ligne, la contrefaçon de produits, les litiges liés aux services de transport, la concurrence déloyale avec les acteurs traditionnels, ou encore la collecte massive de données personnelles sans contrôle suffisant constituent des menaces pour les usagers et pour l’économie nationale. À cela s’ajoute la difficulté pour l’État de percevoir une fiscalité équitable face à ces grandes plateformes, souvent étrangères.
+
+Dans ce contexte, le rôle de l’autorité publique devient essentiel. Elle doit à la fois encourager l’innovation numérique, source de croissance et d’emplois, tout en mettant en place un cadre de régulation capable de protéger les consommateurs, d’assurer la transparence des marchés et de garantir une concurrence loyale.
+
+Dès lors, une interrogation centrale émerge :
+comment l’autorité publique ivoirienne peut-elle réguler efficacement les marchés numériques afin d’accompagner leur essor tout en protégeant les acteurs économiques et les citoyens ?
+
+____________________________________
+
+II. Problématique
+
+En Côte d’Ivoire, les marchés numériques connaissent une croissance rapide, portée par l’usage massif du téléphone mobile et des services financiers digitaux. Des plateformes comme Jumia, Glovo, Orange Money, Wave ou encore des sites de vente en ligne internationaux sont désormais intégrées dans le quotidien des consommateurs. À cela s’ajoutent des applications de transport numérique comme Yango et Uber, qui transforment en profondeur les habitudes de mobilité dans les grandes villes comme Abidjan.
+
+Toutefois, cette expansion s’accompagne de difficultés. Les arnaques en ligne, la vente de produits contrefaits, l’absence de protection juridique suffisante pour les consommateurs, l’évasion fiscale des grandes plateformes étrangères, ainsi que la collecte et l’utilisation abusive des données personnelles sont autant de défis. Du côté du transport numérique, des tensions apparaissent entre les chauffeurs traditionnels (taxis, wôro-wôrô) et les nouvelles plateformes, ce qui soulève des enjeux de concurrence et d’équité.
+
+Dans ce contexte, l’État ivoirien est appelé à intervenir afin d’assurer un cadre légal adapté. Mais il se heurte à une difficulté majeure : comment mettre en place une régulation efficace de ces marchés sans freiner leur dynamisme, ni décourager l’innovation ? Ou encore 
+Dans quelle mesure l’autorité publique ivoirienne peut-elle assurer une régulation efficace des marchés numériques tout en favorisant leur croissance économique ?
+
+___________________________________________
+
+III. Hypothèses de recherche
+
+Au regard de cette problématique, plusieurs hypothèses peuvent être formulées :
+
+Hypothèse 1 :
+La régulation efficace des marchés numériques en Côte d’Ivoire dépend avant tout de l’existence d’un cadre juridique clair, moderne et adapté aux réalités du numérique.
+Cela implique la mise à jour des textes législatifs et réglementaires, ainsi que le renforcement des compétences de l’Autorité de Régulation des Télécommunications/TIC de Côte d’Ivoire (ARTCI) et des institutions partenaires.
+
+Hypothèse 2 :
+Une régulation efficace nécessite une coopération étroite entre l’État, les acteurs privés et la société civile, afin de garantir un équilibre entre innovation et protection de l’intérêt général.
+Ce dialogue public-privé permettrait d’élaborer des politiques inclusives favorisant à la fois la compétitivité des entreprises et la sécurité juridique des usagers.
+
+Hypothèse 3 :
+Le succès de la régulation repose également sur la sensibilisation et la formation des utilisateurs du numérique.
+Une population mieux informée de ses droits et obligations contribue à un environnement numérique plus sûr et plus responsable.
+
+
+
+Ces hypothèses guideront la présente recherche dont les objectifs sont précisés ci-après.
+
+_________________________________
+
+IV. Objectifs de la recherche
+
+Objectif général :
+
+Analyser les mécanismes juridiques et institutionnels permettant à l’autorité publique ivoirienne d’assurer une régulation efficace des marchés numériques, tout en favorisant leur développement économique.
+
+
+
+Objectifs spécifiques :
+
+1. Identifier le cadre juridique existant en matière de régulation des marchés numériques en Côte d’Ivoire.
+
+2. Évaluer le rôle et les limites des institutions chargées de cette régulation, notamment l’ARTCI et les ministères concernés.
+
+
+3. Analyser les principaux défis liés à la régulation des secteurs du commerce et des ventes en ligne (Jumia), du transport et de la livraison numérique (Glovo, Yango) et des services de paiement mobile (Orange Money, Wave).
+
+
+4. Proposer des pistes d’amélioration pour renforcer l’efficacité de la régulation et promouvoir un développement numérique durable et inclusif.
+
+_________________________________
+
+V. Intérêt du sujet
+
+Ce sujet présente un intérêt à la fois pratique et théorique.
+
+1. Intérêt pratique :
+
+L’étude permet de comprendre les mécanismes de régulation mis en place par l’État ivoirien face à l’essor rapide des marchés numériques. En analysant des cas concrets comme Jumia, Glovo, Yango, Orange Money ou Wave, elle met en lumière les difficultés rencontrées dans la protection des consommateurs, la fiscalité des plateformes étrangères et la concurrence équitable avec les acteurs traditionnels.
+Elle apporte ainsi des propositions concrètes pour une meilleure régulation, tout en soutenant le développement du numérique comme levier de croissance économique.
+
+2. Intérêt théorique :
+
+Sur le plan scientifique, le sujet contribue à enrichir la réflexion en droit public économique, particulièrement dans le champ encore peu exploré de la régulation des marchés numériques en Afrique francophone.
+Il permet d’analyser comment les autorités publiques adaptent leurs outils juridiques et administratifs face à un secteur en constante mutation, dominé par les innovations technologiques et les acteurs privés internationaux.
+
+_________________________________
+
+VI. Méthodologie de la recherche
+
+La présente étude repose sur une approche essentiellement juridique et analytique, complétée par une observation du contexte socio-économique ivoirien. Elle vise à comprendre comment l’autorité publique parvient ou tente de réguler les différents marchés numériques en Côte d’Ivoire.
+
+1. Type de recherche
+
+La recherche est avant tout théorique, car elle s’appuie sur l’analyse du cadre juridique existant (textes de loi, règlements, politiques publiques, etc.) et sur les écrits doctrinaux en matière de régulation économique et de droit du numérique.
+Cependant, elle comporte également un aspect pratique, à travers l’étude de cas concrets : les plateformes Jumia et Glovo (commerce et livraison en ligne), Yango (transport numérique), ainsi que les services de paiement mobile comme Orange Money et Wave.
+
+2. Sources de recherche
+
+Sources juridiques :
+Les principales sources utilisées seront les textes législatifs et réglementaires ivoiriens, notamment la loi sur la protection des données à caractère personnel, la loi sur les transactions électroniques, ainsi que les textes de la CEDEAO et de l’UEMOA relatifs à l’économie numérique.
+Seront également pris en compte les conventions internationales et instruments africains encadrant le numérique, tels que la Convention de Malabo sur la cybersécurité et la protection des données.
+
+Sources doctrinales et institutionnelles :
+Des ouvrages, articles scientifiques, rapports institutionnels (ARCEP, Ministère de la Communication et de l’Économie numérique, Banque centrale, etc.) viendront compléter l’analyse.
+L’objectif est de confronter les textes à la réalité des pratiques observées sur le terrain ivoirien.
+
+Sources secondaires: Ressources du Web 
+
+Catalogues de bibliothèques Universitaires Nationaux et Internationaux
+
+ Bases de données bibliographiques Pluridisciplinaires et Spécialisées 
+
+Moteurs de recherche Généralistes et Académique
+ 
+Par exemple :
+
+https://lib.uliege.be/
+ https://www.sudoc.abes.fr
+
+https://www.worldcat.org/
+
+https://doaj.org/
+
+https://www.sciencedirect.com/
+
+https://www.webofknowledge.com/
+
+https://www.scopus.com/home.uri
+
+https://scholar.google.fr/
+
+3. Démarche adoptée
+
+La démarche consiste à :
+
+Identifier les lacunes et insuffisances du cadre juridique actuel ;
+
+Examiner les mécanismes de régulation existants ou envisagés par l’État ivoirien ;
+
+Comparer ces dispositifs avec ceux d’autres pays africains (par exemple le Sénégal ou le Maroc) ;
+
+Et enfin, proposer des pistes d’amélioration pour une régulation plus efficace et adaptée aux réalités locales.
+
+4. Limites de la recherche
+
+Cette étude pourrait se heurter à certaines limites, notamment :
+
+Le manque de données récentes ou d’études locales approfondies sur les marchés numériques ;
+
+La rareté de la jurisprudence ivoirienne dans ce domaine encore nouveau ;
+
+Et la difficulté d’accès à certaines informations institutionnelles, souvent peu diffusées ou mises à jour.
+
+_________________________________
+
+VII. Plan provisoire
+
+Introduction générale
+
+Contexte et justification du sujet
+
+Problématique
+
+Hypothèse de recherche
+
+Objectifs de l’étude
+
+Méthodologie
+
+Annonce du plan
+
+
+
+Première partie : Le cadre et les fondements de la régulation des marchés numériques en Côte d’Ivoire
+
+Chapitre 1 : L’émergence et la nature des marchés numériques ivoiriens
+
+Section 1 : Les principaux acteurs et secteurs concernés (commerce en ligne, transport numérique, paiements mobiles)
+
+Section 2 : Les enjeux économiques, sociaux et juridiques de la numérisation
+
+Chapitre 2 : Le cadre juridique et institutionnel de la régulation numérique
+
+Section 1 : Les textes nationaux et communautaires applicables (lois ivoiriennes, CEDEAO, UEMOA)
+
+Section 2 : Le rôle des autorités publiques (ARCEP, Ministère de l’Économie numérique, CNDP, etc.)
+
+
+Deuxième partie : Les défis et perspectives d’une régulation efficace des marchés numériques
+
+Chapitre 1 : Les insuffisances et limites de la régulation actuelle
+
+Section 1 : Les difficultés juridiques et institutionnelles (vide juridique, chevauchement des compétences)
+
+Section 2 : Les défis économiques et sociaux (concurrence déloyale, protection du consommateur, fiscalité des plateformes étrangères)
+
+Chapitre 2 : Vers une gouvernance numérique équilibrée et durable
+
+Section 1 : Les réformes et politiques publiques à renforcer
+
+Section 2 : Les pistes d’amélioration pour une régulation inclusive et protectrice de l’innovation
+
+
+
+Conclusion générale
+
+Bilan des analyses
+
+Recommandations
+
+Ouverture sur les perspectives futures du numérique en Côte d’Ivoire
+
+________________________________________
